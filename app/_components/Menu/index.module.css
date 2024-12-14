@@ -1,4 +1,4 @@
-.item {
+.items {
   display: flex;
   color: #fff;
   gap: 40px;
@@ -25,7 +25,7 @@
     padding: 24px 16px;
   }
 
-  .item {
+  .items {
     flex-direction: column;
     gap: 24px;
   }

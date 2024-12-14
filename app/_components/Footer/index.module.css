@@ -10,7 +10,7 @@
   margin-bottom: 16px;
 }
 
-.item {
+.items {
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -19,9 +19,9 @@
 }
 
 @media (max-width: 640px) {
-  .item {
+  .items {
     flex-wrap: wrap;
-    gap: 8px o;
+    gap: 8px 0;
   }
   .item{
     width: 50%;
